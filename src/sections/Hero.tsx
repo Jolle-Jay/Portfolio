@@ -13,17 +13,17 @@ export default function Hero() {
 
 
         <div className='flex flex-col text-orange-300 gap-2'>
-          <div className='border border-orange-300 rounded-lg p-4 '>
+          <div className='border border-orange-300 rounded-lg p-4 bg-green-800 '>
             <p>📚  Student inom Mjukvaruuteckling med inriktning AI.</p>
             <p>🌱 Nyfiken och motiverad, med ett starkt intresse för att <br />hjälpa andra, sammarbeta och en vilja att alltid fortsätta lära</p>
           </div>
-          <div className='border border-orange-300 rounded-lg p-4'>
+          <div className='border border-orange-300 rounded-lg p-4 bg-green-800'>
             <a href="mailto:jonathan.cesar.henry.lopez@student.nbi-handelsakademin.se" target="_blank" rel="noopener noreferrer">✉️ jonathan.cesar.henry.lopez@student.nbi-handelsakademin.se</a>
             <div>📞 +46 761-105175</div>
             <div>📍 Malmö</div>
             <div>🌐 Svenska, Engelska, Spanska</div>
+            <a href="https://linkedin.com/in/jonathan-lopez-a53782390" target="_blank" rel="noopener noreferrer">💼 LinkedIn</a>
           </div>
-          <a href="https://linkedin.com/in/jonathan-lopez-a53782390" target="_blank" rel="noopener noreferrer">💼 LinkedIn</a>
 
         </div>
 

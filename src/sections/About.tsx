@@ -2,8 +2,8 @@ export default function About() {
   return (
     <div className="flex flex-col bg-green-900 text-orange-300 p-10 gap-2 ">
       <div className="max-w-2xl mx-auto">
-        <h1 className="text-orange-500 text-3xl">🧭 Erfarenheter</h1> <br />
-        <p>Under årens gång så har jag arbetat inom Vården, servitör och som Murare nästan alltid i team. Har väldigt lätt att komma in i ett bra flyt och sammanhang med dem runtomkring mig.<br />
+        <h1 className="text-orange-500 text-3xl bg-green-800 rounded-lg">🧭 Erfarenheter</h1> <br />
+        <p>Under årens gång så har jag arbetat inom vården, servitör och som murare nästan alltid i team. Har väldigt lätt att komma in i ett bra flyt och sammanhang med dem runtomkring mig.<br />
           Har lätt för att sammarbeta, aldrig rädd för att hoppa in och hjälpa till, med empati och förståelse i spetsen.
           Att hantera stress är inga problem, samtidigt som jag vill ge en en och proffisionel service samtidigt.<br />
 

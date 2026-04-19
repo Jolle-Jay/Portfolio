@@ -9,4 +9,13 @@
 
 body {
   background-color: #0f1a0e;
+  position: relative;
+}
+
+.content-mask {
+  -webkit-mask-image: linear-gradient(to right,
+      transparent,
+      black 80px,
+      black calc(100% - 80px),
+      transparent);
 }

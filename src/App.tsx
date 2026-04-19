@@ -3,23 +3,40 @@ import About from './sections/About';
 import Projects from './sections/Projects';
 import Skills from './sections/Skills';
 import Utbildningar from './sections/Utbildningar';
+import ScrollIndicator from './components/ScrollIndicator';
 
 function App() {
   return (
-    <div className="max-w-5xl mx-auto px-4">
-      <Hero />
+    <>
 
+      <ScrollIndicator />
+      <div className="content-mask position-relative max-w-5xl mx-auto px-4">
 
-      <About />
+        <div id="hero">
+          <Hero />
+        </div>
 
+        <div id="about">
+          <About />
+        </div>
 
-      <Projects />
+        <div id="projects">
+          <Projects />
 
-      <Skills />
+        </div>
 
-      <Utbildningar />
+        <div id="skills">
+          <Skills />
 
-    </div>
+        </div>
+
+        <div id="utbildningar">
+          <Utbildningar />
+
+        </div>
+
+      </div>
+    </>
   );
 }
 

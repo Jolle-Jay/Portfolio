@@ -12,6 +12,7 @@ export default function ScrollIndicator() {
 
       sektioner.forEach((id) => {
         const el = document.getElementById(id);
+        if (!el) return;
         const rect = el.getBoundingClientRect();
         const distance = Math.abs(rect.top - window.innerHeight * 0.3);
         if (distance < minDistance) {

@@ -1,6 +1,6 @@
 export default function Projects() {
   return (
-    <div className='flex flex-col bg-green-900 text-orange-300 p-10'>
+    <div className='flex flex-col bg-transparent text-orange-300 p-10'>
       <div className="max-w-2xl mx-auto flex flex-col gap-8">
         <h1 className="text-orange-500 text-3xl bg-orange-800 rounded-lg">🛠️ Mina projekt</h1>
 
@@ -25,7 +25,7 @@ export default function Projects() {
 
         <div className='flex flex-col gap-2'>
           <h3 className='text-orange-500 text-xl'>• HealthCare System – Sjukhushanteringssystem</h3>
-          <p>Ett grupprojekt där vi byggde ett konsollbaserat sjukhussystem med rollbaserad åtkomstkontroll för patienter, personal och administratörer.</p>
+          <p>Ett grupprojekt där vi byggde ett konsolbaserat sjukhussystem med rollbaserad åtkomstkontroll för patienter, personal och administratörer.</p>
           <p>Tech: C# · CSV-lagring · XUnit</p>
           <p>Min roll: Implementerade utloggningsfunktionalitet och patientjournal-hantering.</p>
           <a href="https://github.com/Mezea11/health-care-system/branches" target="_blank" rel="noopener noreferrer">🐙 GitHub →</a>
@@ -35,7 +35,7 @@ export default function Projects() {
           <h3 className='text-orange-500 text-xl'>• WordPlay – Ordspel</h3>
           <p>Ett grupprojekt där vi byggde ett ordspel där man får en bokstav och ska fylla i olika kategorier med den bokstaven. Helt fokuserat på testning.</p>
           <p>Tech: React · TypeScript · C# · Minimal API</p>
-          <p>Min roll: Endpoints, testning med Postman och XUnit, samt var med och byggde CI/CD pipeline.</p>
+          <p>Min roll: Endpoints, testning med Postman och XUnit, samt var delaktid i att bygga CI/CD pipeline.</p>
           <a href="https://github.com/LinaHalle/WordPlay" target="_blank" rel="noopener noreferrer">🐙 GitHub →</a>
         </div>
 

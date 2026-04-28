@@ -8,14 +8,15 @@
 }
 
 body {
-  background-color: #0f1a0e;
+  background-color: #111111;
   position: relative;
 }
 
 .content-mask {
   -webkit-mask-image: linear-gradient(to right,
       transparent,
-      black 80px,
-      black calc(100% - 80px),
+      black 100px,
+      black calc(100% - 100px),
       transparent);
+
 }

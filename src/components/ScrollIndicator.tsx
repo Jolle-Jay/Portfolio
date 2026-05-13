@@ -21,7 +21,6 @@ export default function ScrollIndicator() {
         }
       });
       if (nearest) activeSektion(nearest);
-      console.log(nearest, minDistance);
     }
 
     window.addEventListener("scroll", handleScroll);
@@ -35,7 +34,7 @@ export default function ScrollIndicator() {
       {sektioner.map((id) => {
         return <div
           key={id}
-          className={sektion === id ? "h-px w-8 bg-orange-300" : "h-px w-4 bg-orange-300"}
+          className={sektion === id ? "h-px w-8 bg-accent" : "h-px w-4 bg-accent/40"}
         />;
       })}
     </div>

@@ -10,7 +10,7 @@ function App() {
     <>
 
       <ScrollIndicator />
-      <div className="content-mask relative max-w-5xl mx-auto px-4">
+      <div className=" relative max-w-5xl mx-auto px-4">
 
         <div id="hero">
           <Hero />

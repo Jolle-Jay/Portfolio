@@ -18,6 +18,7 @@ kommunikationen, förståelsen kring hela systemet och uppbygnaden.
 Att kunna ta flera steg tillbaka och få en fullständig överblick samt att ha kunskapen att kunna djupdyka in i något och förstå det på
 granulär nivå. Det är något jag har observerat och med tiden kommer att komma dit, jag måste ha tålamod rom byggdes inte på en dag.
 
-Att få in en fot hos loominar är något som gör att gnistan inom mig tänder till. Att kunna börja omges av människor som är där jag vill
-vara, kan det jag vill kunna, det är något som kommer ge mig möjligheten att kunna växa och utvecklas till något mycket mer än bara en "programmerare".
-Att det är högt tempo och olika uppdrag som är igång gör att den där nyfikenheten och ambitionen jag har går igång på alla cylindrar
+Att få in en fot hos Omegapoint är något som gör att gnistan inom mig tänder till. Att kunna börja omges av människor som är där jag vill
+vara, har stor kunskap & erfarenhet inom området. Det är något som kommer ge mig möjligheten att kunna växa och utvecklas till något mycket mer än bara en "programmerare".
+Att det är högt tempo och olika uppdrag som är igång gör att den där nyfikenheten och ambitionen jag har går igång på alla cylindrar, jag är som en torr svamp som bara vill
+suga åt mig allt som finns inom tech att förstå. Det gäller i sin tur också att förstå vad som händer när systemet möter verkligheten, det är där och då jag kommer att börja lära mig på riktigt.

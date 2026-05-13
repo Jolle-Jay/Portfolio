@@ -2,7 +2,7 @@ export default function Skills() {
   return (
     <div className='flex flex-col bg-transparent text-sand p-10'>
       <div className="max-w-2xl w-full mx-auto flex flex-col gap-8">
-        <h2 className="text-accent text-2xl bg-secondary rounded-lg">🖥️ Skillset</h2>
+        <h2 className="text-accent text-2xl">🖥️ Skillset</h2>
         <div className="flex flex-col gap-4">
           <div>
             <h3 className="text-accent underline text-xl">Backend</h3>

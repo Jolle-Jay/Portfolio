@@ -2,10 +2,10 @@ export default function Projects() {
   return (
     <div className='flex flex-col bg-transparent text-sand p-10'>
       <div className="max-w-2xl w-full mx-auto flex flex-col gap-8">
-        <h1 className="text-accent text-3xl bg-secondary rounded-lg">🛠️ Mina projekt</h1>
+        <h1 className="text-accent text-3xl ">🛠️ Mina projekt</h1>
 
         {/* Skolprojekt */}
-        <h2 className="text-accent text-2xl bg-secondary rounded-lg">🎓 Skolprojekt</h2>
+        <h2 className="text-accent text-2xl ">🎓 Skolprojekt</h2>
 
         <div className='flex flex-col gap-2'>
           <h3 className='text-accent text-xl'>• EuroQuest – Resebyråapplikation</h3>
@@ -48,7 +48,7 @@ export default function Projects() {
         </div>
 
         {/* Egna projekt */}
-        <h2 className="text-accent text-2xl bg-secondary rounded-lg">🔨 Egna projekt</h2>
+        <h2 className="text-accent text-2xl ">🔨 Egna projekt</h2>
 
         <div className='flex flex-col gap-2'>
           <h3 className='text-accent text-xl'>• Location API</h3>

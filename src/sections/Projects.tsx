@@ -32,7 +32,7 @@ export default function Projects() {
           <h3 className='text-accent text-xl'>• HealthCare System – Sjukhushanteringssystem</h3>
           <p>Ett grupprojekt där vi byggde ett konsolbaserat sjukhussystem med rollbaserad åtkomstkontroll för patienter, personal och administratörer.
             Det går att logga in som patient, kolla sin journal, boka tid med läkare. Som personal går det att logga in kolla journaler, skicka journaler eller patienter
-            till läkare.
+            till läkare. Samt som admin kan man hantera känslig dator och lägga till / ta bort användare.
           </p>
           <p>Tech: C# · CSV-lagring · XUnit</p>
           <p>Min roll: Implementerade utloggningsfunktionalitet och patientjournal-hantering.</p>
@@ -41,7 +41,10 @@ export default function Projects() {
 
         <div className='flex flex-col gap-2'>
           <h3 className='text-accent text-xl'>• WordPlay – Ordspel</h3>
-          <p>Ett grupprojekt där vi byggde ett ordspel där man får en bokstav och ska fylla i olika kategorier med den bokstaven. Helt fokuserat på testning.</p>
+          <p>Ett grupprojekt där vi byggde ett ordspel där man får en bokstav och ska fylla i olika kategorier med den bokstaven. Helt fokuserat på testning.
+            Det går att spela över nätet då allting har blivit upplagt på Render, du skapar en lobby, väljer regler och skickar sedan en länk till dem som du vill
+            spela med.
+          </p>
           <p>Tech: React · TypeScript · C# · Minimal API</p>
           <p>Min roll: Endpoints, testning med Postman och XUnit, samt var delaktid i att bygga CI/CD pipeline.</p>
           <a href="https://github.com/LinaHalle/WordPlay" target="_blank" rel="noopener noreferrer">🐙 GitHub →</a>
@@ -52,21 +55,25 @@ export default function Projects() {
 
         <div className='flex flex-col gap-2'>
           <h3 className='text-accent text-xl'>• Location API</h3>
-          <p>Ett eget projekt där jag byggde ett C# API som hämtar GPS-koordinater via OpenStreetMap, och integrerade det med en lokal AI-agent (Llama 8B) som ett tool — agenten bestämmer när och hur API:et ska anropas.</p>
+          <p>Arkitekturen är uppbyggd i två delar — ett C# API som hanterar koordinathämtningen, och en Python-agent som bestämmer när och hur API:et ska anropas. Två språk, två repos, en integration</p>
           <p>Tech: C# · Minimal API · Nominatim · Python · Llama 8B</p>
           <a href="https://github.com/Jolle-Jay/LocationApi" target="_blank" rel="noopener noreferrer">🐙 GitHub →</a>
         </div>
 
         <div className='flex flex-col gap-2'>
           <h3 className='text-accent text-xl'>• Todo API – Entity Framework</h3>
-          <p>Byggde ett Todo API för att förstå hur Entity Framework fungerar och hur man kan integrera och skala upp API:er.</p>
+          <p>Byggde ett Todo API för att förstå hur Entity Framework fungerar och hur man kan integrera och skala upp API:er.
+            Fokus låg på att förstå skillnaden mellan att skriva rå SQL och att låta Entity Framework hantera databasoperationerna — när man använder vad och varför.
+          </p>
           <p>Tech: C# · Entity Framework</p>
           <a href="https://github.com/Jolle-Jay/TodoApi-EF" target="_blank" rel="noopener noreferrer">🐙 GitHub →</a>
         </div>
 
         <div className='flex flex-col gap-2'>
           <h3 className='text-accent text-xl'>• Todo API – Minimal API</h3>
-          <p>Ett enkelt Todo API byggt med Minimal API som grund för att lära mig hur routing och endpoints fungerar.</p>
+          <p>Ett enkelt Todo API byggt med Minimal API som grund för att lära mig hur routing och endpoints fungerar.
+            Mitt första egna API-projekt. Byggde det för att förstå hur routing, HTTP-metoder och endpoints fungerar under huven innan jag använde dem i grupprojekt.
+          </p>
           <p>Tech: C# · Minimal API</p>
           <a href="https://github.com/Jolle-Jay/todoAPi" target="_blank" rel="noopener noreferrer">🐙 GitHub →</a>
         </div>

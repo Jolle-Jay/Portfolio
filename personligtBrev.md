@@ -1,4 +1,4 @@
-Hej,
+Hej!
 Jag heter Jonathan, är 33 år och har arbetat tio år inom vården och tre år som murare. 
 Har rest mycket under 20-30 årsåldern, vilket har gett mig bred livserfarenhet och en förmåga att möta och förstå människor från helt olika bakgrunder.
 2025 bestämde jag mig för att byta bana helt och hoppade in i programmeringsvärlden.

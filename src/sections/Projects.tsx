@@ -50,6 +50,16 @@ export default function Projects() {
           <a href="https://github.com/LinaHalle/WordPlay" target="_blank" rel="noopener noreferrer">🐙 GitHub →</a>
         </div>
 
+        <div className='flex flex-col gap-2'>
+          <h3 className='text-accent text-xl'>• SMOLLLM</h3>
+          <p>Skolprojekt där vi byggde ett litet FastApi som hade en SmolLLM som kunde ta emot en CSV med ett dataset och med sin integrerade
+            pipeline iterera och svara på enkla frågor.
+          </p>
+          <p>Tech: Python, SmolLLM, FastApi</p>
+          <p>Min roll: Byggde allting med hjälp av alla andra små projekt som vi gick igenom samma kurs.</p>
+          <a href="https://github.com/Jolle-Jay/Python-SmollLLM-KK2" target="_blank" rel="noopener noreferrer">🐙 GitHub →</a>
+        </div>
+
         {/* Egna projekt */}
         <h2 className="text-accent text-2xl ">🔨 Egna projekt</h2>
 

@@ -6,7 +6,7 @@ export default function Skills() {
         <div className="flex flex-col gap-4">
           <div>
             <h3 className="text-accent underline text-xl">Backend</h3>
-            <p>C# · .NET Minimal API · Entity Framework · REST API</p>
+            <p>C# · .NET Minimal API · Entity Framework · REST API · FastApi · Python</p>
           </div>
           <div>
             <h3 className="text-accent underline text-xl">Frontend</h3>
@@ -14,7 +14,7 @@ export default function Skills() {
           </div>
           <div>
             <h3 className="text-accent underline text-xl">Databas</h3>
-            <p>MySQL · PostgreSQL · MariaDB · MSSQL · SQL</p>
+            <p>MySQL · PostgreSQL · MariaDB · MYSQL · SQL</p>
           </div>
           <div>
             <h3 className="text-accent underline text-xl">Testning</h3>

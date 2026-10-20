@@ -6,7 +6,7 @@ export default function Skills() {
         <div className="flex flex-col gap-4">
           <div>
             <h3 className="text-accent underline text-xl">Backend</h3>
-            <p>C# · .NET Minimal API · Entity Framework · REST API · FastApi · Python</p>
+            <p>C# · .NET Minimal API · Entity Framework · REST API · Python · FastAPI</p>
           </div>
           <div>
             <h3 className="text-accent underline text-xl">Frontend</h3>
@@ -14,11 +14,11 @@ export default function Skills() {
           </div>
           <div>
             <h3 className="text-accent underline text-xl">Databas</h3>
-            <p>MySQL · PostgreSQL · MariaDB · MYSQL · SQL</p>
+            <p>SQL · MySQL · PostgreSQL · MariaDB</p>
           </div>
           <div>
             <h3 className="text-accent underline text-xl">Testning</h3>
-            <p>XUnit · Postman · Thunderclient</p>
+            <p>xUnit · Postman · Thunder Client</p>
           </div>
           <div>
             <h3 className="text-accent underline text-xl">Verktyg</h3>
@@ -26,7 +26,7 @@ export default function Skills() {
           </div>
           <div>
             <h3 className="text-accent underline text-xl">AI/Övrigt</h3>
-            <p>Python (grunderna) · Ollama · Nominatim API-integration · GitHub Copilot</p>
+            <p>Ollama · LLM-agenter (Llama 8B) · Nominatim API-integration · GitHub Copilot</p>
           </div>
         </div>
       </div>
